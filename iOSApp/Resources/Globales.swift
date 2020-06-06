@@ -20,6 +20,8 @@ func currentTime() -> String {
 class Global {
    ///11 elements
     static var Placa : String = ""
+    static var BtnCerrar = "CERRAR"
+    static var BtnConti  = "CONTINUAR"
 }
 
 func mensaje(texto : String){
